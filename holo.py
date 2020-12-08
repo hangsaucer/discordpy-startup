@@ -17,7 +17,19 @@ Hololive = {
         "Nene Ch.桃鈴ねね",
         "https://yt3.ggpht.com/ytc/AAUvwnim3rUS3EhZrGARcbATumWxnrCAjo8ovmgXT2tm=s88-c-k-c0x00ffffff-no-rj"
     ],
-
+    "UC1DCedRgGHBdm81E1llLhOQ": [
+        "Pekora Ch. 兎田ぺこら",
+        "https://yt3.ggpht.com/ytc/AAUvwnjvkyPGzOmEXZ34mEFPlwMKTbCDl1ZkQ_HkxY-O5Q=s176-c-k-c0x00ffffff-no-rjj"
+    ],
+    "UCoSrY_IQQVpmIRZ9Xf-y93g": [
+        "Gawr Gura Ch. hololive-EN",
+        "https://yt3.ggpht.com/ytc/AAUvwnhSSaF3Q-PyyTSis4EH6Cu8FZ32LNvkxI9Gl_rn=s176-c-k-c0x00ffffff-no-rj"
+    ],
+    "UC5CwaMl1eIgY8h02uZw7u8A": [
+        "Suisei Channel ",
+        "https://yt3.ggpht.com/ytc/AAUvwnjdAl5rn3IjWzl55_0-skvKced7znPZRuPC5xLB=s176-c-k-c0x00ffffff-no-rj"
+    ],
+    
 } #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
 
 webhook_url_Hololive = 'https://discord.com/api/webhooks/550322074737180673/rNuGKsnzFqk_iyJU-XvKHDIAmixVBW_MwZbR1KUI3IrSCg6nHwI1ks2qIjx2r0kAK6VE' #ホロライブ配信開始
