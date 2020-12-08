@@ -5,17 +5,17 @@ import copy
 from datetime import datetime, timedelta, timezone
 
 Hololive = {
-    "UCp6993wxpyDPHUpavwDFqgg": [
-        "ときのそら",
-        "https://yt3.ggpht.com/a/AATXAJzGvZJuJ92qM5WcfBcDZqPFSj_CGIEYp9VFmA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UC-hM6YJuNYVAmUWxeIr9FeA": [
+        "Miko Ch. さくらみこ",
+        "https://yt3.ggpht.com/ytc/AAUvwnivs5rzf7KS1U5FWL3Q23g31ZDNrsTFeczXsTV2hw=s88-c-k-c0x00ffffff-no-rj"
     ],
-    "UC1uv2Oq6kNxgATlCiez59hw": [
-        "常闇トワ",
-        "https://yt3.ggpht.com/a/AATXAJxqyp7DhLSSrSYRc5HaLcq5QvJvRp3jDnxTeA=s288-c-k-c0xffffffff-no-rj-mo"
+    "UC1opHUrw8rvnsadT-iGp7Cg": [
+        "Aqua Ch. 湊あくあ",
+        "https://yt3.ggpht.com/ytc/AAUvwngM9Jmc29dvbOY43w7RWFbOZLU4tGtOkEwtt-g7PA=s88-c-k-c0x00ffffff-no-rj"
     ],
-    "UCa9Y57gfeY0Zro_noHRVrnw": [
-        "姫森ルーナ",
-        "https://yt3.ggpht.com/a/AATXAJzzirDjRJkofWVeoE6gVjodJ0VXaJhy4b_CLg=s288-c-k-c0xffffffff-no-rj-mo"
+    "UCAWSyEs_Io8MtpY3m-zqILA": [
+        "Nene Ch.桃鈴ねね",
+        "https://yt3.ggpht.com/ytc/AAUvwnim3rUS3EhZrGARcbATumWxnrCAjo8ovmgXT2tm=s88-c-k-c0x00ffffff-no-rj"
     ],
 
 } #配信者のチャンネルID, 配信者名, アイコン画像のURLのリスト
